@@ -13,7 +13,7 @@
 		"apollo-server": "^2.14.1",
 		"apollo-server-express": "^2.14.2",
 		"dotenv": "^8.2.0",
-		"express": "^4.17.1",
+		"express": "^4.17.3",
 		"graphql": "^15.0.0",
 		"graphql-playground-middleware-express": "^1.7.15",
 		"mongodb": "^3.5.8",
